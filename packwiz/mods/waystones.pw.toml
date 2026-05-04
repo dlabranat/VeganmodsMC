@@ -1,0 +1,9 @@
+name = "Waystones"
+filename = "waystones.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "latest"
+

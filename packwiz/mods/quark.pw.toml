@@ -1,0 +1,9 @@
+name = "Quark"
+filename = "quark.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "JCnVnBwj"
+version = "latest"
+

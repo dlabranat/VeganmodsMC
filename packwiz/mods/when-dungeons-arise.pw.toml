@@ -1,0 +1,9 @@
+name = "When Dungeons Arise"
+filename = "when-dungeons-arise.jar"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 429528
+file-id = 0
+

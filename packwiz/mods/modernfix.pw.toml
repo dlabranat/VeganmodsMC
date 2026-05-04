@@ -1,0 +1,9 @@
+name = "ModernFix"
+filename = "modernfix.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "latest"
+

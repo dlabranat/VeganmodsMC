@@ -1,0 +1,9 @@
+name = "Sophisticated Backpacks"
+filename = "sophisticated-backpacks.jar"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 422301
+file-id = 0
+

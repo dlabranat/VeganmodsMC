@@ -1,0 +1,9 @@
+name = "The Twilight Forest"
+filename = "twilight-forest.jar"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 227639
+file-id = 0
+

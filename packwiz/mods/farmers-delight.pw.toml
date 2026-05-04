@@ -1,0 +1,9 @@
+name = "Farmer's Delight"
+filename = "farmers-delight.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "R2OftAxM"
+version = "latest"
+

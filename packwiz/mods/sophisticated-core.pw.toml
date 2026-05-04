@@ -1,0 +1,9 @@
+name = "Sophisticated Core"
+filename = "sophisticated-core.jar"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 618298
+file-id = 0
+

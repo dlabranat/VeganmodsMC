@@ -1,0 +1,9 @@
+name = "Botania"
+filename = "botania.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "pfjLUfKv"
+version = "latest"
+

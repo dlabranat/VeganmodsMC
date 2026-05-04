@@ -1,0 +1,9 @@
+name = "Curios API"
+filename = "curios.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "vvuO3ImH"
+version = "latest"
+

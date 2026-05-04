@@ -1,0 +1,3 @@
+# Forces Biomes O' Plenty world generation
+[world_type]
+default_world_type = "biomesoplenty:bop"

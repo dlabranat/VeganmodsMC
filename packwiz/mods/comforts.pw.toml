@@ -1,0 +1,9 @@
+name = "Comforts"
+filename = "comforts.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "latest"
+

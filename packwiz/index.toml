@@ -1,0 +1,150 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/bop-world-type.toml"
+hash = "f9598edd3c1971b76a3ae8f72681d0d1a876ab24037cea66db1a913444135a49"
+
+[[files]]
+file = "mods/alexsmobs.pw.toml"
+hash = "4b09f96064b0331d004589cb9ae49ed27ba373ea945ca7168528acc5b2366ade"
+metafile = true
+
+[[files]]
+file = "mods/architectury.pw.toml"
+hash = "6f33f1ac6771f01c5020f14a2ce4e7d582080e7f9bbda3a0b260f2bb6b185bd9"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "d10db540b2e9ff5bc427ec7cdf9ee461e67d5aa15d8b3730bc7e904e774b15ee"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "abb85ab71b4d5981cfb43d08d90ebb8d2bf2739d51ba980b8cb470d202ba3231"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "8144e0ef1a12bab1a1660690a74287fa972c98b81da7613ac14f21fce721693a"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "eb88c43dbbf898670b62f4d315f0446d6658cd11be419b2d9542392a313bb59c"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "c6929be91cb702ab7f28e38647a5a6dcfb556e8933e65b4ca76c51a93aa28db7"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "d3892815401f56072a886f06fd319968521b2289d3b3abbe10d7431ac315e214"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "9011fbbc95e9bd5fc814c9d3296ce3411901dd673d2091688d7ff32040eeaefc"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "9857d540e4dd22600cd670fa70852e2eb2ff91731421fa1fa994a4cfd6531a6b"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f0094798ef0d289efb0a3281f276934559a0175cbbd8d52373172ed4edccd80a"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "25594278a42a7d17c13f1020420fea88b3a181002de7e597dcec50ea8198f0e4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "196196a983713d4d3c897dead833242c199952a711ebce6a674ac06a37c04daa"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "f78362866b71cb3e6c501424637c4588bdae96de4419f68b4302aad6d9312e97"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "b8c5ef9ae49bca6c61cd3e63bf32c00019fdcb7b38d6a4299f6a33d659ed457e"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "355cc45282ac937b6ad3c2ecccef45e6a127537917c3ec6052766b30c4586668"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "ede645aa9311d083a45b23e516f7bffa2a3ce3da7bbcf38476cc21c2883975ec"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e488725ec96c11af6e3da907654ed62484037ad2b42ddf699113348953b8fe9a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight-lib.pw.toml"
+hash = "9bb5a8683ab678de28e6f879338eabd3417a621bb3049fd41f906e4a0e838ab0"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "70070a9fcbc6a3b023c136cf1a98653fa8f90b91430ece50c0fbfad22b535ce2"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "cb95a7c8e22742fc6dd9acb461c58e5f81182c22a384183da3372b24ee34ea2c"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "7b4e24cdf193eb8ab0fae0f7459175d27d1bdd227280dd72de97e3e8f74434bb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "87a257cf0e5fa31943933a07fa9d7aeaad456767e8fc1b8ee3208625fc0ef6d3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "6006d783411cc88b8402480c913deed624d2eaec52b03ef93d5ce67682203b56"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6a610d2608ef71bc137b6558391fd4c4785b70a512e89eb83701cced97c14580"
+metafile = true
+
+[[files]]
+file = "mods/twilight-forest.pw.toml"
+hash = "a80221847e0b639ff0e0eb76f27ede747c93fd71cc8ea7938f1cbee55a01fc04"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "e364ed46a9704b6d79161009a917e24378c7a8ff3e48cf9cc4b7994d43577182"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "65c5470d071edda01a5599b703ae8fe587a05aa2c553b2f142f285fcca1bd88c"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "2c20e19d48e9b71682764c66cbf1bb84f85702a057df1e72a4791077f97579f5"
+metafile = true

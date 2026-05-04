@@ -1,0 +1,9 @@
+name = "Serene Seasons"
+filename = "serene-seasons.jar"
+side = "both"
+
+[update]
+[update.curseforge]
+project-id = 291874
+file-id = 0
+

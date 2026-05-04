@@ -1,0 +1,9 @@
+name = "Supplementaries"
+filename = "supplementaries.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "MlMhSNgR"
+version = "latest"
+

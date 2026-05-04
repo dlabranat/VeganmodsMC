@@ -1,0 +1,9 @@
+name = "Architectury API"
+filename = "architectury.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "latest"
+

@@ -1,0 +1,9 @@
+name = "Ars Nouveau"
+filename = "ars-nouveau.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "y8s1MXia"
+version = "latest"
+

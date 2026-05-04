@@ -1,0 +1,9 @@
+name = "Bookshelf"
+filename = "bookshelf.jar"
+side = "both"
+
+[update]
+[update.modrinth]
+mod-id = "uy4Cnpcm"
+version = "latest"
+

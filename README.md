@@ -1,2 +1,2 @@
-# dlabranat.github.io
+# VeganmodsMC
 Vegan mods for MC 1.20.1

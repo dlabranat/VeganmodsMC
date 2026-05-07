@@ -1,9 +1,0 @@
-name = "Embeddium"
-filename = "embeddium.jar"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "sk9rgfiA"
-version = "latest"
-

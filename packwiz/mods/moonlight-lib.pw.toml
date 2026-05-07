@@ -1,9 +1,0 @@
-name = "Moonlight Lib"
-filename = "moonlight-lib.jar"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "0mDf5Fls"
-version = "latest"
-

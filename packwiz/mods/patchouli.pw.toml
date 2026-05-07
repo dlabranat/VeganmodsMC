@@ -1,9 +1,0 @@
-name = "Patchouli"
-filename = "patchouli.jar"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "nU0bVIaL"
-version = "latest"
-

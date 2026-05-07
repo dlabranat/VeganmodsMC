@@ -1,9 +1,0 @@
-name = "Citadel"
-filename = "citadel.jar"
-side = "both"
-
-[update]
-[update.curseforge]
-project-id = 331936
-file-id = 0
-

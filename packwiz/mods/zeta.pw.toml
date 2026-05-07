@@ -1,9 +1,0 @@
-name = "Zeta"
-filename = "zeta.jar"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "skNJBmkP"
-version = "latest"
-

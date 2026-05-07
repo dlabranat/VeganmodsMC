@@ -1,9 +1,0 @@
-name = "GeckoLib"
-filename = "geckolib.jar"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "8BmcQJ2H"
-version = "latest"
-

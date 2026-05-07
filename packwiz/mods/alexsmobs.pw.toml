@@ -1,9 +1,0 @@
-name = "Alex's Mobs"
-filename = "alexsmobs.jar"
-side = "both"
-
-[update]
-[update.curseforge]
-project-id = 426558
-file-id = 0
-

@@ -1,9 +1,0 @@
-name = "Blue Skies"
-filename = "blue-skies.jar"
-side = "both"
-
-[update]
-[update.curseforge]
-project-id = 312918
-file-id = 0
-

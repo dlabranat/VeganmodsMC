@@ -1,9 +1,0 @@
-name = "JourneyMap"
-filename = "journeymap.jar"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "lfHFW1mp"
-version = "latest"
-

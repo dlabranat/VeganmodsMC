@@ -1,9 +1,0 @@
-name = "Entity Culling"
-filename = "entityculling.jar"
-side = "client"
-
-[update]
-[update.modrinth]
-mod-id = "NNAgCjsB"
-version = "latest"
-

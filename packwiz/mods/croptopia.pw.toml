@@ -1,9 +1,0 @@
-name = "Croptopia"
-filename = "croptopia.jar"
-side = "both"
-
-[update]
-[update.curseforge]
-project-id = 415438
-file-id = 0
-

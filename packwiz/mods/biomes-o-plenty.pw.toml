@@ -1,9 +1,0 @@
-name = "Biomes O' Plenty"
-filename = "biomes-o-plenty.jar"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "HXF82T3G"
-version = "latest"
-
